@@ -12,5 +12,10 @@
     <string name="key_send_feedback">key_send_feedback</string>
     <string name="key_notifications_new_message_ringtone">key_notifications_new_message_ringtone</string>
 
+    <string name="title_profile">Profile</string>
+
     <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

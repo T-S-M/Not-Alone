@@ -19,6 +19,7 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
+    public static DrawerLayout drawer;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -85,7 +86,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         if (id == R.id.settings) {
             // Handle the settings action
-            //startActivity(new Intent(MainActivity.this, SettingsActivity.class));
+            startActivity(new Intent(MainActivity.this, SettingsActivity.class));
 
         } else if (id == R.id.feedback) {
             sendFeedback(MainActivity.this);
@@ -96,7 +97,9 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         } else if (id == R.id.privacy) {
 
         }  else if (id == R.id.profile) {
-           // startActivity(new Intent(MainActivity.this, FacebookAccountHelperActivity.class));
+           //startActivity(new Intent(MainActivity.this, ProfileFragment.class));
+             Intent intent = new Intent(MainActivity.this, ProfileFragment.class);
+             startActivity(intent);
         } else if (id == R.id.sign_out) {
 
            /* AuthUI.getInstance()

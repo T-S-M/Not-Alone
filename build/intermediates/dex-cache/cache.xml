@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\Android\SOSafe\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="deebd68adcc8190a3aef10c3e1715e0606064925">
+        <dex dex="G:\Android\SOSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0c5ddbbc693fc3f0517a23e962f98a348bf498bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Android\SOSafe\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\Android\SOSafe\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4a0f0d18127ee6584798198edc1eaa258f327674\classes.dex" />
+    </item>
+
+</items>
