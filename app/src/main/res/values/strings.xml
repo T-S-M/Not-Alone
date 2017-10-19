@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SOSafe</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="choose_email_client">Choose email client</string>
+
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="summary_choose_ringtone">Choose notification sound</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="key_notifications_new_message_ringtone">key_notifications_new_message_ringtone</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
