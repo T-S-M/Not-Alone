@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NotAlone.iml" filepath="$PROJECT_DIR$/NotAlone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Not-Alone.iml" filepath="$PROJECT_DIR$/Not-Alone.iml" />
+      <module fileurl="file://G:\Android\Not-Alone\NotAlone.iml" filepath="G:\Android\Not-Alone\NotAlone.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
